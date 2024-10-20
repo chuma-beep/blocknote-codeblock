@@ -6,13 +6,13 @@ You can install this package using npm, yarn, or pnpm:
 
 ```bash
 # Using npm
-npm install your-module
+npm install blocknote-codeblock
 
 # Using yarn
-yarn add your-module
+yarn add blocknote-codeblock
 
 # Using pnpm
-pnpm add your-module
+pnpm add blocknote-codeblock
 ```
 
 
